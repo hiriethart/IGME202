@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE_01.Plugins", "PE_01.Plugins.csproj", "{77693BE0-0AD8-12EF-2A5A-C2C69BBC3CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE_01.Editor.Plugins", "PE_01.Editor.Plugins.csproj", "{6E8C3F21-489B-26CD-5AC1-3F17C3B9E100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77693BE0-0AD8-12EF-2A5A-C2C69BBC3CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77693BE0-0AD8-12EF-2A5A-C2C69BBC3CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77693BE0-0AD8-12EF-2A5A-C2C69BBC3CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77693BE0-0AD8-12EF-2A5A-C2C69BBC3CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8C3F21-489B-26CD-5AC1-3F17C3B9E100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8C3F21-489B-26CD-5AC1-3F17C3B9E100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8C3F21-489B-26CD-5AC1-3F17C3B9E100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8C3F21-489B-26CD-5AC1-3F17C3B9E100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
