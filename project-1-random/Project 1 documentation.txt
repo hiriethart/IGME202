@@ -1,0 +1,27 @@
+Project 1 - Random
+Rikko Huang for IGME 202, Section 1
+
+Description:
+This project has us random generate a variety of gameobjects including: 
+a random terrain using perlin noise, 
+scale leaders whose x,y,z values scale using distrubuted values,
+a number of objects positioned non-uniformly like an attackign army (more up front, less in cetner, trails off at the end)
+a number of objects whose positions are completely random.
+We were also instructed to have multiple cameras that the user can cycle through to view the scene.
+
+User Responsibilities:
+User can press C to cycle between camera views and move around on the FPS view using WASD or arrow keys.
+
+Above and Beyond:
+Skybox
+
+Resources
+Sheep: Unity Asset Store
+Duck: Unity Asset Store
+Trees: Unity Asset Store
+Terrain Texture: Unity Asset Store
+Skybox Images: Unity Asset Store
+Camera Script: Provided in myCourses
+
+Known Issues:
+NullReferenceException: Obect reference not set to an instance of an object on camera views
